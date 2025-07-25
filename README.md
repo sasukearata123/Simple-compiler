@@ -1,4 +1,4 @@
-// test
+
 var x = 10;
 var name = "Alice";
 var tt = "amartya";
